@@ -1,0 +1,40 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 22 sept 2024, 12:06:01 p. m.
+    Author     : moises
+*/
+.tabla-1{
+    background: white;
+    font-family: Arial;
+    padding: 10px;
+    border-collapse: collapse;
+}
+thead{
+    background: #1B14ED;
+    border-bottom: solid 5px #3399ff;
+    color: white;
+}
+.tabla-2{
+    width: 100%;
+    text-align: left;
+    left: 50em;
+}
+.th1{
+    width: 25%;
+}
+.th2{
+    width: 50%;
+}
+p{
+    font-family: Arial;
+}
+img{
+    display: flex;
+    width: 150px;
+    height: 100px;
+    margin: auto;
+}
+

@@ -1,0 +1,29 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 22 sept 2024, 11:19:26 a. m.
+    Author     : moises
+*/
+body{
+    margin: 0;/*eliminando margen predeterminado*/
+}
+.barra{
+    float: right;/*posicionamiento de elemento.*/
+    display: inline-block;
+}
+.buscador{
+    width: 75%;
+    border: solid #75a0e1;
+    border-radius: 10px;/*sirve para remoldear las esquinas.*/
+    background:#75a0e1;
+}
+.lupita{
+    position: absolute;
+    background: none;
+    border: none;
+    top: 2px;
+    right: 20px;
+}
+
